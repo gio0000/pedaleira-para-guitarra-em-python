@@ -1,0 +1,5 @@
+PEDALEIRA EM PYTHON, DESENVOLVIDFA COM FINS EDUCATIVOS, NELA FORAM UTILIZADAS BIBLIOTECAS DO PYTHON, ENTRADA DE AUDIO DO PC.
+para fazer o seu codigo rodar, baixe os arquivos e se certfique que todos eles estao corretamente ajustados, cada arquivo é de extrema importancia para a pedaleira.
+ela é composta por uma tela inicial que contem dois botoes, um de acessar a pedaleira no mesmo instante e o outro para acessar os seus efeitos antigos salvos. O botao de ir para a pedaleira é intuiitivo, ai clicar, voce entrara na pedaleira, para os efeitos serem aplicados, voce deve clicar no boato de ligar, para desligar eles, no botao de desligar, ela contem o botao de
+salvar os efeitos no banco de dados, voce deve colocar o nome da musica, e o seu efeito sera salvo com sucesso, para acessar os efeitos salvos, clique no botao de acessar efeitos salvos, todos as suas musicas serao salvas em um banco de dados, para carregar a musica que voce deseja, selecione a sua musica no comboBox ( caixca de opcoes) e clique em "carregar efeitos'1
+sera exibida a tela da pedaleira, com os efeitos ja ajustados
